@@ -4,6 +4,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-statsmodels-8CAAE6)
 ![Course](https://img.shields.io/badge/M.Sc.-Statistics%20%26%20ML-2D7D9A)
+![Date](https://img.shields.io/badge/Completed-March%202026-555)
+
+**M.Sc. project · March 2026** · SRH University · Module ADSA04 *Statistics & Machine Learning*
 
 This is a re-analysis of the clinical study by **Rauch et al. (2012, *Journal of Critical Care*)**. Every participant swallowed a wireless *SmartPill* motility capsule, and the study compared how fast food moves through the gut in **8 ventilated trauma patients** and **87 healthy volunteers**.
 
