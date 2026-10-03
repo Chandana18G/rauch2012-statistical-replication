@@ -87,8 +87,8 @@ There are two primary outcomes, so they are tested at a Bonferroni-corrected **Î
 ## Reproduce
 
 ```bash
-git clone https://github.com/Chandana18G/Statistics.git
-cd Statistics
+git clone https://github.com/Chandana18G/rauch2012-statistical-replication.git
+cd rauch2012-statistical-replication
 pip install -r requirements.txt
 jupyter notebook smartpill_analysis.ipynb
 ```
